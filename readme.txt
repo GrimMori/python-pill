@@ -1,16 +1,19 @@
 ✧･ﾟ: *✧･ﾟ:* 　PYTHON PILL　 *:･ﾟ✧*:･ﾟ✧
 
-To run the program open a terminal and write: python slideshow.py
+To run the program open a terminal, navigate to the containing directory using the commands:
+
+	cd (stands for "change directory")
+
+	ls (stands for "list files")
 
 
-if you want to learn more about Python you can try using the following commands:
+and then write: 
 
-	whatis python
-
-	man python
+	python slideshow.py
 
 
-and also check out:
+
+LEARN MORE ABOUT PYTHON:
 
 www.python.org/
 
