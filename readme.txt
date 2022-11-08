@@ -1,8 +1,16 @@
 ✧･ﾟ: *✧･ﾟ:* 　PYTHON PILL　 *:･ﾟ✧*:･ﾟ✧
 
+To run the program open a terminal and write: python slideshow.py
 
-LEARN MORE ABOUT PYTHON:
 
+if you want to learn more about Python you can try using the following commands:
+
+	whatis python
+
+	man python
+
+
+and also check out:
 
 www.python.org/
 
