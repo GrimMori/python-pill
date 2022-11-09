@@ -23,6 +23,6 @@ https://en.wikipedia.org/wiki/Pip_(package_manager)
 
 https://en.wikipedia.org/wiki/List_of_Python_software
 
-https://www.youtube.com/watch?v=kLZuut1fYzQ
+https://www.youtube.com/watch?v=kLZuut1fYzQ "What Can You Do with Python? - The 3 Main Applications"
 
 

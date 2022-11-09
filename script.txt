@@ -1,0 +1,23 @@
+PYTHON PILL SCRIPT
+
+Buenos días a todas. Hoy os voy a hablar un poco de Python. Aunque esto ya deberíais saberlo porque consta en el calendario y deberíais mirar el calendario porque la preparación es una de las estrategias más efectivas ante cualquier situación. 
+Voy a empezar en inglés, para practicar un poco, explicándoos qué es Python y luego seguiré en español y os mostraré algunos ejemplos de implementación de Python. So...
+
+What is Python? I was not sure about how to start defining Python because I did not really know much specific, so I asked my computer through the terminal. I will do it again so you can see it. (abre el terminal y escribe "whatis python")
+I did that with the command "whatis". It says that python is an interpreted, interactive object-oriented programming language. I understood most of this but I knew that Python is so much more than that. And now I know even more so I will show you. But first let me explain what all this means.
+Interpreted means that the code is read directly by the computer when you run a program. Other programming languages like C or Java (for example) have to be compiled, translated, before the computer can understand and run it. That is one of the reasons I like Python; you can iterate your code much faster and try things with agility and interactivity. Also you do not have to understand what compiling is or how to do it so it is easier to learn if you are not experienced.
+Object-Oriented -------------------------------------------------------
+As I said, Python is so much more than that so I started asking my internet browsers and I found out that there is a text called "The Zen of Python" that describes the philosophy of Python and the intentions of its design. I will show you a cool thing. You can do as I do if you want. Open a terminal. And now write "python". If you get an error feedback, it most likely means that python is not installed in your computer. But if it is now your terminal should look something like that. This means that your terminal is now a Python terminal. It works like the JavaScript terminal. You can try to make a calculation for example. Or print something. And if you write "import this"... The Zen of Python should appear in your screen. That is an easter egg and I think it is pretty cool.
+So 
+
+NOW FRAMEWORKS AND LIBRARIES EXAMPLES
+
+BACKEND WEB DEVELOPEMENT : Django, Flask
+
+MACHINE LEARNING: Scikit-learn, TensorFlow
+
+DATA ANALYSIS: MatPlotLib, Pandas
+
+
+
+
