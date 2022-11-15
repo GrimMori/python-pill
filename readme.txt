@@ -9,6 +9,7 @@ La intención de este repositorio es aprender y/o enseñar tanto en su creación
 
 El propósito de esta presentación es introducir Python brevemente y mostrar un ejemplo; en este caso es la propia presentación.
 
+El programa reproduce en orden alfabético cualquier imagen que haya en la carpeta 'slides'.
 
 
 
